@@ -1,0 +1,1 @@
+Created by Codex during a Scrivener UI capability test. This synopsis confirms inspector text can be set.

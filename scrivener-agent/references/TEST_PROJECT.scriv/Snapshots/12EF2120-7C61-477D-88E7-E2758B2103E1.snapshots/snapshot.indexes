@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnapshotIndexes Version="1.0" BinderUUID="12EF2120-7C61-477D-88E7-E2758B2103E1">
+    <Snapshot Date="2026-05-14 10:28:51 -0700">
+        <Title>Codex baseline snapshot</Title>
+        <Text>This is a Codex UI capability test inside Scrivener.
+
+Capabilities tested here: create a Binder document, rename it, select it, write body text, and inspect the document state afterward.
+
+Dead Acre practice-project note: no canon content was changed.</Text>
+    </Snapshot>
+</SnapshotIndexes>
