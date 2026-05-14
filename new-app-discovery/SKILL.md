@@ -1,6 +1,6 @@
 ---
 name: new-app-discovery
-description: Use this skill whenever the user wants Codex to investigate, automate, integrate with, reverse-engineer, or safely test a new local desktop app, document-based app, macOS app, GUI workflow, or app file format. Trigger aggressively before writing scripts or making assumptions about an unfamiliar app: first discover the UI, storage model, file/package format, safe write paths, round-trip behavior, and automation limits.
+description: "Use this skill whenever the user wants Codex to investigate, automate, integrate with, reverse-engineer, or safely test a new local desktop app, document-based app, macOS app, GUI workflow, or app file format. Trigger aggressively before writing scripts or making assumptions about an unfamiliar app: first discover the UI, storage model, file/package format, safe write paths, round-trip behavior, and automation limits."
 ---
 
 # New App Discovery
