@@ -127,6 +127,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>57ECC98D-8199-4935-B5F1-D1F7A2D60646</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>5C03DE09-C285-48ED-827F-78E62B7D0F72</key>
 		<dict>
 			<key>Row</key>
@@ -167,6 +172,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>98EA5CEF-B7B1-468C-83CD-9AB24AFAFDF3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>9A470BDE-CF2B-4872-97C6-74F19BC90197</key>
 		<dict>
 			<key>Row</key>
@@ -183,6 +193,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>BE948F87-BDA3-4551-8E08-AC248FE89301</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>C88ACCC3-4FDB-4952-80E1-177623CDE141</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -356,7 +371,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>200</real>
+			<real>191</real>
 		</dict>
 	</dict>
 	<key>showInvisibles</key>
